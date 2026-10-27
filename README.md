@@ -31,3 +31,6 @@ git stash
 git stash pop
     palauttaa stashiin palautetut tiedostot
     
+agyatftrscdysaesftvuyacgviycxagvicav
+sauvdsayfvudsafvcufavcsuy
+iyavdyfsavcydsafvdyuatv
