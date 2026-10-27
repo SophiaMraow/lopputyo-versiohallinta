@@ -24,3 +24,10 @@ git switch
 
 git merge
     yhdistää haaroja 
+    
+git stash
+    tallentaa muokkaukset tilapäisesti
+    
+git stash pop
+    palauttaa stashiin palautetut tiedostot
+    
