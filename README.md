@@ -24,3 +24,15 @@ git switch
 
 git merge
     yhdistää haaroja 
+    
+git stash
+    tallentaa muokkaukset tilapäisesti
+    
+git stash pop
+    palauttaa stashiin palautetut tiedostot
+    
+git revert
+    peruu valitun commitin. käytännössä tekee uuden commitin joka on valitun commitin vastakohta
+    
+git cherry-pick
+    valitsee tietyn commitin toisesta branchista ja committaa sen tämänhetkiseen
